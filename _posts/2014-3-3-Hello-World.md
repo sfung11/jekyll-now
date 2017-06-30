@@ -1,10 +1,15 @@
 ---
 layout: post
-title: You're up and running!
+title: Jumping into the data science world
 ---
 
-Next you can update your site name, avatar and other options using the _config.yml file in the root of your repository (shown below).
+I am a trained neuroscientist and until two months ago, I was in academia doing experiments at the bench and publishing on microglia (the brain's immune cells) and their role in brain tumors or Alzheimer's disease. I enjoyed the research, but wanted to spend more time working with data and in scenarios that have more real-life applications.
 
-![_config.yml]({{ site.baseurl }}/images/config.png)
+On many occasions, data science was mentioned as a career path! I did my research on data science training options in Seattle and I am very happy, nervous, excited to be starting this important career transition here at Metis. 
 
-The easiest way to make your first post is to edit this one. Go into /_posts/ and update the Hello World markdown file. For more instructions head over to the [Jekyll Now repository](https://github.com/barryclark/jekyll-now) on GitHub.
+I am just at the beginning of this accelerated training program and look forward (perhaps cringe a little?) at the progression of the posts that I publish here.
+
+Until then, I leave you with this:
+![alt text](https://imgflip.com/i/1rqz7j) 
+ 
+(Image credit to Allie Brosch.) 
