@@ -10,6 +10,6 @@ On many occasions, data science was mentioned as a career path! I did my researc
 I am just at the beginning of this accelerated training program and look forward (perhaps cringe a little?) at the progression of the posts that I publish here.
 
 Until then, I leave you with this:
-![alt text](https://imgflip.com/i/1rqz7j) 
+![image credit: Allie Brosch](https://i.imgflip.com/1rqz7j.jpg) 
  
 (Image credit to Allie Brosch.) 
