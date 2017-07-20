@@ -1,6 +1,5 @@
 ---
-layout: post
-title: Scraping for data, preliminary analysis
+# Scraping for data, preliminary analysis  
 ___
 
 I scraped for data for the first time to run some preliminary analyses and had a taste of the process from start to (ever so imperfect) finish. Even though this analysis of data scraped from [Zillow](https://zillow.com) is _very_ raw, I am excited about what I was able to do: scrape data from a website using Beautifulsoup, convert data to a pandas dataframe, save it as a csv file, and run a few linear regressions using scikit-learn. As I scraped for data myself, I only pulled out a few features from the html tags (please Zillow, don't sue me). If I was to move forward with this analysis, I would definitely use their API instead to gather additional features.
