@@ -9,7 +9,7 @@ I wanted to predict housing prices in Seattle, WA, specifically zip code 98103. 
 My code and a readme is up on [github](https://github.com/sfung11/Predicting-Home-Prices.git), so I wanted to share a few interesting graphs here.
 
 By using all the features (number of bedrooms, bathrooms, the sqft, and year built) I was able to get an R-squared value of 0.76 on my test set.
-![Sold and predicted price](/Users/macbook/Desktop/Susan_working/02-Luther/PredictActual.png)
+![Sold and predicted price](PredictActual.png)
 
 Looking at each feature separately, all had a positive correlation, with sqft being the strongest. In the next iteration, I will treat year-built differently, they seem to cluster into 3 different groups.
 ![Plots of features](/Users/macbook/Desktop/Susan_working/02-Luther/ByFeature.png)
